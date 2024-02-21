@@ -3,8 +3,7 @@
 - **Project Introduction:** Eat n Split is a React application designed to simplify bill splitting and expense tracking within a group of friends. With its transaction minimization algorithm, it effortlessly calculates who owes whom and how much, ensuring fair and efficient settlement of expenses.
 
 - **Live Preview:** 
-    - [Live Preview](#) [https://eat-n-split-kt-100.netlify.app/]
-
+    - [https://eat-n-split-kt-100.netlify.app/](#)
 - **Built With:**
     - HTML
     - CSS
