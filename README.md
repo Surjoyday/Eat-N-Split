@@ -8,7 +8,7 @@
     - HTML
     - CSS
     - JavaScript
-    - React App
+    - React 
     - Node
 
 - **External Libraries and APIs:**
